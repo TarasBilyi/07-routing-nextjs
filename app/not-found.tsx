@@ -1,6 +1,6 @@
 import css from "./page.module.css";
 
-const NorFound = () => {
+const NotFound = () => {
   return (
     <div className={css.container}>
       <h1 className={css.title}>404 - Page not found</h1>
